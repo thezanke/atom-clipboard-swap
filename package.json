@@ -1,10 +1,9 @@
 {
   "name": "clipboard-swap",
   "main": "./lib/clipboard-swap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Swaps your current selection with what is in your clipboard",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "clipboard-swap:swap"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
