@@ -1,5 +1,11 @@
 {
-  "atom-workspace": {
+  ".platform-darwin": {
     "cmd-shift-x": "clipboard-swap:swap"
+  },
+  ".platform-win32": {
+    "ctrl-shift-x": "clipboard-swap:swap"
+  },
+  ".platform-linux": {
+    "ctrl-shift-x": "clipboard-swap:swap"
   }
 }
