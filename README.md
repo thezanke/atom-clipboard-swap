@@ -1,3 +1,3 @@
 # clipboard-swap package
 
-Use `cmd-shift-x` to swap the contents of your current selection with the contents of your clipboard.
+Use `cmd-shift-x` (mac) or `ctrl-shift-x` (window/linux) to swap the contents of your current selection with the contents of your clipboard.
