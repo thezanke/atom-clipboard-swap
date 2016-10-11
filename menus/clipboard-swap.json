@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Swap",
+        "command": "clipboard-swap:swap"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Cliboard Swap",
+          "submenu": [
+            {
+              "label": "Swap",
+              "command": "clipboard-swap:swap"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
