@@ -1,17 +1,14 @@
 {
   "name": "clipboard-swap",
   "main": "./lib/clipboard-swap",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Swaps your current selection with what is in your clipboard",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "clipboard-swap:swap"
   },
-  "repository": {
-    "type": "git",
-    "https://github.com/thezanke/atom-clipboard-swap.git"
-  },
+  "repository": "https://github.com/thezanke/atom-clipboard-swap.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
